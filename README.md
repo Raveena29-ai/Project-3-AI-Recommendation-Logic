@@ -21,11 +21,13 @@ This project demonstrates a simple AI recommendation system using Python. It rec
 ## Output
 The program displays an AI recommendation based on the user's input.
 ## Screenshots
-
 ### Code Screenshot
-![Code Screenshot](IMG_20260703_165059.jpg)
+![Code Screenshot]
+IMG_20260703_165059.jpg 
 
 ### Output Screenshot
-![Output Screenshot](IMG_20260703_165134.jpg)
+![Output Screenshot]
+IMG_20260703_165134.jpg 
+
 ## Note
 This project is created for learning basic AI recommendation logic using Python.
